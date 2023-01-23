@@ -6,7 +6,7 @@ const App = () => {
     <>
       <div className="app">
         <img src={IMAGES.logo.src} alt={IMAGES.logo.alt} />
-        <p className="construction-text">Site under construction.</p>
+        <p className="construction-text">Site under construction</p>
       </div>
     </>
   );

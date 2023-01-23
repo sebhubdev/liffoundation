@@ -1,0 +1,5 @@
+node_modules
+
+deploy.php
+deploy.dev.sh
+deploy/index.html
